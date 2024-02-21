@@ -1,0 +1,6 @@
+Enter the rows and columns of the first matrix: Enter the rows and columns of the second matrix: Enter elements of the first matrix:
+Enter elements of the second matrix:
+The multiplication of the two matrix is:
+12 12 
+12 12 
+12 12 
